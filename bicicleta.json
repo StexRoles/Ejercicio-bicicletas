@@ -1,0 +1,97 @@
+[   {
+        "id": 1,
+        "marca": "Fierce",
+        "modelo": "FM18SI29AM211",
+        "rodado": 16,
+        "fabricacion": "2019",
+        "color": "Celeste",
+        "peso": 13,
+        "tipo": "Paseo",
+        "precio": 1600,
+        "vendida": "no"
+    },
+    {
+        "id": 2,
+        "marca": "Shifter",
+        "modelo": "FM18F29AM210",
+        "rodado": 26,
+        "fabricacion": "2020",
+        "color": "Negro",
+        "peso": 15,
+        "tipo": "Montaña",
+        "precio": 2100,
+        "vendida": "si"
+    },
+    {
+        "id": 3,
+        "marca": "Olmo",
+        "modelo": "Regal",
+        "rodado": 28,
+        "fabricacion": "2021",
+        "color": "Gris",
+        "peso": 16,
+        "tipo": "Retro",
+        "precio": 3200,
+        "vendida": "si"
+    },
+    {
+        "id": 4,
+        "marca": "Battle",
+        "modelo": "Sunshine",
+        "rodado": 16,
+        "fabricacion": "2019",
+        "color": "Naranja",
+        "peso": 17,
+        "tipo": "Triatlon",
+        "precio": 4500,
+        "vendida": "no"
+    },
+    {
+        "id": 5,
+        "marca": "TopMega",
+        "modelo": "Techno",
+        "rodado": 16,
+        "fabricacion": "2022",
+        "color": "Rojo",
+        "peso": 15,
+        "tipo": "Retro",
+        "precio": 1800,
+        "vendida": "si"
+    },
+    {
+        "id": 6,
+        "marca": "SLP",
+        "modelo": "Regal",
+        "rodado": 29,
+        "fabricacion": "2019",
+        "color": "Rosa",
+        "peso": 17,
+        "tipo": "Montaña",
+        "precio": 2400,
+        "vendida": "no"
+    },
+    {
+        "id": 7,
+        "marca": "Halley",
+        "modelo": "Ruta",
+        "rodado": 26,
+        "fabricacion": "2023",
+        "color": "Violeta",
+        "peso": 17,
+        "tipo": "Triatlon",
+        "precio": 4800,
+        "vendida": "si"
+    },
+    {
+        "id": 8,
+        "marca": "Fixie",
+        "modelo": "Sunshine",
+        "rodado": 29,
+        "fabricacion": "2019",
+        "color": "Verde",
+        "peso": 16,
+        "tipo": "Paseo",
+        "precio": 2900,
+        "vendida": "no"
+    }
+]
